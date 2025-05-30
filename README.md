@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to Java/Python.
+- 💬 Ask me about anything related to Mirobot/E4/MT4.
 - 📫 How to reach me: 136645224gg@gmail.com
 - 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_39936336?spm=1010.2135.3001.5421)
 
