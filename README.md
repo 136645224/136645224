@@ -13,5 +13,5 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/136645224/count.sv
 
 ![](https://img.shields.io/badge/C%2B%2B-ED8B00?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Arudino-9976AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
